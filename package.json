@@ -1,0 +1,17 @@
+{
+  "name": "prompt-descent",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test:sentiment": "npx tsx src/test-sentiment.ts",
+    "test:financial": "npx tsx src/test-financial.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
